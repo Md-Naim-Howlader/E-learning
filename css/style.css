@@ -23,6 +23,13 @@ a {
 .navbar li:hover > a {
   color: #16df7e;
 }
+.navbar .active {
+  color: #16df7e;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 /*--------------------------------------------------------------
 # Preloader
